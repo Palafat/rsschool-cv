@@ -6,7 +6,7 @@ I'm Artur Yermalinski. I'm 26 years old. I work as a tester in the company IUS (
 
 ## Contact Info
 
-+ Email: artur.yermalinski@gmail.com
++ Email: artur.yermalinski@gmail.com, articfresh@mail.ru
 + Mobile: +375292361864
 + Linkedin: [https://www.linkedin.com/in/artur-yermalinski](https://www.linkedin.com/in/artur-yermalinski)
 + Skype: Artur Yermalinski
