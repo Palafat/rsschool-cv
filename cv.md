@@ -1,12 +1,3 @@
----
-title: Artur Yermalinski
-linkcolor: blue
-pdf-engine: xelatex
-header-includes:
- - \usepackage[margin=.5in]{geometry}
-classoption: "12pt"
----
-
 # About
 
 I'm Artur Yermalinski. I'm 26 years old. I work as a tester in the company IUS (Intelligent Urban Systems).
@@ -15,9 +6,9 @@ I'm Artur Yermalinski. I'm 26 years old. I work as a tester in the company IUS (
 
 ## Contact Info
 
-+ Email: [artur.yermalinski@gmail.com]
-+ Mobile: +375-29-236-18-64
-+ Linkedin: [www.linkedin.com/in/artur-yermalinski]
++ Email: artur.yermalinski@gmail.com
++ Mobile: +375292361864
++ Linkedin: www.linkedin.com/in/artur-yermalinski
 + Skype: Artur Yermalinski
 
 
@@ -52,5 +43,5 @@ I have been working at QA at IUS (Intelligent Urban Systems) since February 2019
 + Yandex Practicum: The basics of HTML, CSS, JS.
 + Coursehunter: Web Development for Beginners.
 + Glo Academy: Web Developer 10.0 Course Entries.
-+ itvdn: Javascript Essential, Interactive training apparatus JS.
++ ITVDN: Javascript Essential, Interactive training apparatus JS.
 
