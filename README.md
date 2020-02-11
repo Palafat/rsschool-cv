@@ -1,2 +1,3 @@
 # rsschool-cv
-https://github.com/Palafat/rsschool-cv/cv
+
+https://palafat.github.io/rsschool-cv/cv
