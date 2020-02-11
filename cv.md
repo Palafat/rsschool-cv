@@ -4,15 +4,6 @@ I'm Artur Yermalinski. I'm 26 years old. I work as a tester in the company IUS (
 
 
 
-## Contact Info
-
-+ Email: artur.yermalinski@gmail.com
-+ Mobile: +375292361864
-+ Linkedin: www.linkedin.com/in/artur-yermalinski
-+ Skype: Artur Yermalinski
-
-
-
 ## Summary
 
 I have been working at QA at IUS (Intelligent Urban Systems) since February 2019. I have written some autotests in Python. On projects in our company, I am the only tester, so I know what self-training is. In my free time, I tried to make up the pages and realized that I like to create something much more than something to "break" and check, so I decided to try myself in the role of Front-end developer and I believe that I will succeed.
@@ -45,3 +36,10 @@ I have been working at QA at IUS (Intelligent Urban Systems) since February 2019
 + Glo Academy: Web Developer 10.0 Course Entries.
 + ITVDN: Javascript Essential, Interactive training apparatus JS.
 
+
+## Contact Info
+
++ Email: artur.yermalinski@gmail.com, articfresh@mail.ru
++ Mobile: +375292361864
++ Linkedin: [https://www.linkedin.com/in/artur-yermalinski](https://www.linkedin.com/in/artur-yermalinski)
++ Skype: Artur Yermalinski
