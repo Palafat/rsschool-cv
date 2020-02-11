@@ -1,0 +1,52 @@
+*,
+*:after,
+*:before {
+  box-sizing: border-box;
+}
+
+main,
+header {
+  width: 90%;
+  max-width: 1024px;
+  margin: 0 auto;
+}
+
+body {
+  background-color: #f8f8ff;
+  margin: 0 auto;
+  max-width: 1024px;
+  font-family: "Poppins", sans-serif;
+}
+
+p {
+  text-align: center;
+  width: 100%;
+  font-size: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+  margin-top: 100px;
+}
+
+img {
+  width: 150px;
+  margin-left: 380px;
+}
+
+ul,
+nav {
+  margin-top: 30px;
+}
+
+li {
+  list-style-position: inside;
+}
+
+a {
+  text-decoration: none;
+}
